@@ -1,0 +1,41 @@
+{
+  "state": "local_test_receipt_before_publication",
+  "checked_at_utc": "2026-10-11T09:13:18Z",
+  "python": "3.12.14",
+  "runtime": "bundled_codex_python",
+  "test_runner": "stdlib_unittest",
+  "tests": 19,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "exit_code": 0,
+  "duration_seconds": 1.152,
+  "tdd": {
+    "red": "missing package module; one expected failing test",
+    "green": "same test passes, then full suite passes"
+  },
+  "coverage_scope": [
+    "synthetic exact byte round-trip including Unicode, BOM and CRLF",
+    "real optimize and restore CLI subprocesses without auxiliary windows",
+    "corrupt payload, hashes, metadata, unsupported version and invalid UTF-8",
+    "excessive repeat counts, literal markers and empty or unique input",
+    "existing destination and hard-link source protection",
+    "input/output constrained to selected workspace",
+    "invalid JSON and duplicate fields do not produce restored output"
+  ],
+  "not_checked": [
+    "package installation or wheel build",
+    "other operating systems or Python versions",
+    "LLM token savings, model response quality or paid provider APIs",
+    "Hermes or OpenClaw integration, hosted operation or funding eligibility"
+  ],
+  "network_calls_from_tests": 0,
+  "external_services_modified": false,
+  "github_changed": false,
+  "license_status": "authorized_mit",
+  "publication_status": "authorized_pending_publication",
+  "publication_target": "alcaudon1974/nexura-context-optimizer",
+  "owner_license_authorization_date": "2026-10-11",
+  "logic_changed_for_license_update": false,
+  "tests_repeated_for_license_update": false
+}

@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nexura-context-optimizer"
+version = "0.1.0.dev0"
+description = "Experimental reversible UTF-8 packages for repeated context paragraphs"
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+nexura-context = "nexura_context_optimizer.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["nexura_context_optimizer*"]

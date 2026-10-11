@@ -1,0 +1,73 @@
+{
+  "format": "local-candidate-sha256",
+  "version": 1,
+  "created_at_utc": "2026-10-11T09:23:15.348649+00:00",
+  "manifest_itself_excluded": true,
+  "files": [
+    {
+      "path": "examples/entrada.txt",
+      "bytes": 877,
+      "sha256": "49a09f51f4b64e3e6a5415659098c4e40ea699ba4f49df6cec3204af2e11d697"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1071,
+      "sha256": "21e7eaca3f5d90e57b736ebcf723bbdc24d5d5a6ae89387f201783ceaefd8e2d"
+    },
+    {
+      "path": "PROCEDENCIA.md",
+      "bytes": 3369,
+      "sha256": "64ac598181a9c8c6be35fcb4a63f4b45690e7fb9f781466a9627954a3e6d3fec"
+    },
+    {
+      "path": "pyproject.toml",
+      "bytes": 496,
+      "sha256": "2367ebca35b96cbba02041d1f2c3feaa7de80c96cc5a3593dec380bcbbcbd464"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4172,
+      "sha256": "0f13ceb9ff617de100679d985b15446e45a1377cdabf92c9c90c7da73c90407a"
+    },
+    {
+      "path": "src/nexura_context_optimizer/__init__.py",
+      "bytes": 40,
+      "sha256": "47c8cb8163c222d5f4e97ca100b9c017d3673bd7f348040a6b0d11d84ff847d0"
+    },
+    {
+      "path": "src/nexura_context_optimizer/cli.py",
+      "bytes": 4839,
+      "sha256": "4640e8c66641a7f64f1e5cadcb4801f4063f11f4cab0ba7d46182beea4a20eba"
+    },
+    {
+      "path": "src/nexura_context_optimizer/context_optimizer.py",
+      "bytes": 6219,
+      "sha256": "f36e03aa41044e893687ed49ce50fef0b98ba8a42fd5466e28a4845a8f9ed735"
+    },
+    {
+      "path": "src/nexura_context_optimizer/package.py",
+      "bytes": 4591,
+      "sha256": "f92ac9341d8730accc7a4bd7de962ae67065e3afc3e7ff13dc3829e4c450aea7"
+    },
+    {
+      "path": "tests/test_cli.py",
+      "bytes": 5481,
+      "sha256": "63d4b04e12ea3d9e196a32b0d00a616329b598a9aa015d1eb20f75179d200df2"
+    },
+    {
+      "path": "tests/test_context_optimizer.py",
+      "bytes": 3539,
+      "sha256": "6a7d26cb716a7579f573f46cc078e165a80f7146c1dcb3b9b7a773ab4f5c1e47"
+    },
+    {
+      "path": "tests/test_package.py",
+      "bytes": 3050,
+      "sha256": "d19b18a1def8c444be71af388c15127d70cb204f5a9e06816605aae4f7bca402"
+    },
+    {
+      "path": "VERIFICACION.json",
+      "bytes": 1664,
+      "sha256": "aeb5450c4a7ed7243e9bb50c56d476aeff159e047eeb37f6607ae653501129b8"
+    }
+  ]
+}
