@@ -1,7 +1,7 @@
 {
   "format": "local-candidate-sha256",
   "version": 1,
-  "created_at_utc": "2026-10-11T09:23:15.348649+00:00",
+  "created_at_utc": "2026-10-11T09:25:09.985389+00:00",
   "manifest_itself_excluded": true,
   "files": [
     {
@@ -16,8 +16,8 @@
     },
     {
       "path": "PROCEDENCIA.md",
-      "bytes": 3369,
-      "sha256": "64ac598181a9c8c6be35fcb4a63f4b45690e7fb9f781466a9627954a3e6d3fec"
+      "bytes": 3322,
+      "sha256": "d19a0c6c468b246a97d83d2a350da782fb67bc5ac9d30312805fa3b722f73b65"
     },
     {
       "path": "pyproject.toml",

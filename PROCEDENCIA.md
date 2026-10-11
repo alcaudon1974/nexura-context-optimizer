@@ -2,7 +2,7 @@
 
 Fecha de revisión: 11 de octubre de 2026. Repositorio de origen: `alcaudon1974/gpt-5-6-sol-context-optimizer`, privado, rama `main`. Commit consultado: `da58ab3cffec2844ef99253ec6f416c6d2ee97d3`. El único commit visible en la consulta de historial identifica a Alfonso Ángel como autor y está fechado el 11 de agosto de 2026.
 
-El 11 de octubre de 2026 Alfonso Ángel confirmó expresamente que puede licenciar este código bajo MIT y autorizó publicar únicamente la copia revisada como `alcaudon1974/nexura-context-optimizer`. Se incorporó `LICENSE` con Copyright (c) 2026 Alfonso Ángel y se retiró la propuesta de licencia pendiente de la copia publicable. La publicación sigue pendiente de ejecución; esta autorización no cambia la visibilidad de los repositorios privados de origen.
+El 11 de octubre de 2026 Alfonso Ángel confirmó expresamente que puede licenciar este código bajo MIT y autorizó publicar únicamente la copia revisada como `alcaudon1974/nexura-context-optimizer`. Se incorporó `LICENSE` con Copyright (c) 2026 Alfonso Ángel y se retiró la propuesta de licencia pendiente de la copia publicable. Esta autorización no cambia la visibilidad de los repositorios privados de origen.
 
 Se revisaron el README, las instrucciones y los criterios del origen antes de seleccionar estos cinco archivos. Esta copia no conserva la ubicación privada, las instrucciones de ejecución de Hermes ni su historial Git.
 
